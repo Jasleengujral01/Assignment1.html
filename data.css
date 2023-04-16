@@ -1,0 +1,29 @@
+body {
+    background: #000;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: white;
+    
+}
+p {
+    color: white;
+}
+
+table{
+    border: 1px solid white;
+    color: white;
+}
+div{
+    color: white ;
+}
+h1{
+    color: white;
+    margin-left: 45%;
+    margin-right: 50%;
+}
